@@ -1,0 +1,11 @@
+{
+  "name": "Unrounding-Shiggy",
+  "description": "Squares off Discord Mobile style radii using a Shiggy/Kettu-safe subset of system24 unrounding.",
+  "authors": [
+    {
+      "name": "Custom adaptation based on system24 unrounding by LukasDerBaum42"
+    }
+  ],
+  "main": "index.js",
+  "hash": "005cf1c711da83c7b997f0e58f344ecfa1048293b5b3bf50f2f8a02698ab863e"
+}
